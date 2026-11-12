@@ -6,7 +6,7 @@ Hemocentro da Paraíba (João Pessoa/PB). Reúne critérios de inaptidão
 (temporária/definitiva), tempos de espera por medicamento, vacina, doença,
 cirurgia e procedimento odontológico, além de fluxos de aférese, arboviroses e
 geração de comprovante/resumo de triagem.
-Responsável pelo conteúdo: Dr. Rodrigo Cahuana Chipayo. Revisão atual: **Rev.05 / 16-07-2026** (Portaria de Consolidação GM/MS nº 5/2017, redação da Portaria GM/MS nº 11.685/2026).
+Responsável pelo conteúdo: Dr. Rodrigo Cahuana Chipayo. Revisão atual: **Rev.06 / 16-07-2026** (Portaria de Consolidação GM/MS nº 5/2017, redação da Portaria GM/MS nº 11.685/2026).
 
 ## Stack
 - **Single file:** `index.html` (HTML + CSS + JS, tudo inline). Sem build, sem dependências externas.

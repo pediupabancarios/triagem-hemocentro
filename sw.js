@@ -4,7 +4,7 @@
  * revalidação para os demais GET same-origin.
  * Suba a constante C a cada release para limpar os caches antigos.
  */
-const C = 'tv16';
+const C = 'tv17';
 const CORE = ['./', './index.html'];
 
 self.addEventListener('install', e => {

@@ -6,7 +6,7 @@ e definitiva (ID), tempos de espera por medicamento, vacina, doença, cirurgia e
 procedimento odontológico, fluxos de aférese e arboviroses, triagem guiada e
 geração de resumo/comprovante.
 
-Conteúdo baseado no **Manual de Triagem Clínica — Rev. 05 (16/07/2026)** e na
+Conteúdo baseado no **Manual de Triagem Clínica — Rev. 06 (16/07/2026)** e na
 Portaria de Consolidação GM/MS nº 5/2017, atualizada pela Portaria GM/MS nº
 11.685/2026. Responsável pelo conteúdo: Dr. Rodrigo Cahuana Chipayo.
 
